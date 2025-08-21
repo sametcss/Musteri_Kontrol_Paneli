@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Musteri_Kontrol_Paneli/static/css/main.e6c13ad2.css",
-    "main.js": "/Musteri_Kontrol_Paneli/static/js/main.4a8422aa.js",
+    "main.js": "/Musteri_Kontrol_Paneli/static/js/main.acdd4e5e.js",
     "static/js/453.a3c1d153.chunk.js": "/Musteri_Kontrol_Paneli/static/js/453.a3c1d153.chunk.js",
     "index.html": "/Musteri_Kontrol_Paneli/index.html",
     "main.e6c13ad2.css.map": "/Musteri_Kontrol_Paneli/static/css/main.e6c13ad2.css.map",
-    "main.4a8422aa.js.map": "/Musteri_Kontrol_Paneli/static/js/main.4a8422aa.js.map",
+    "main.acdd4e5e.js.map": "/Musteri_Kontrol_Paneli/static/js/main.acdd4e5e.js.map",
     "453.a3c1d153.chunk.js.map": "/Musteri_Kontrol_Paneli/static/js/453.a3c1d153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4a8422aa.js"
+    "static/js/main.acdd4e5e.js"
   ]
 }
